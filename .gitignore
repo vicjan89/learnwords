@@ -1,0 +1,6 @@
+.venv
+*.png
+*.json
+*.txt
+.idea
+__pycache__
